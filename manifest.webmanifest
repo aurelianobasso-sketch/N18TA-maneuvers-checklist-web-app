@@ -1,0 +1,16 @@
+{
+  "name": "N18TA Maneuver Checklists",
+  "short_name": "N18TA",
+  "description": "Offline commercial-maneuver checklists and engine configurations for N18TA.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#102d4f",
+  "orientation": "any",
+  "icons": [
+    {"src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"},
+    {"src": "./apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any"}
+  ]
+}
